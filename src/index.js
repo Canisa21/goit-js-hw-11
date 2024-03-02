@@ -60,25 +60,24 @@ const showValue=((data)=>{
             
               <div class="info">
                 <p class="info-item">
-                  <b>Likes</b>
+                  Likes:
                   ${likes}
                 </p>
                 <p class="info-item">
-                  <b>Views</b>
+                  Views:
                   ${views}
                 </p>
                 <p class="info-item">
-                  <b>Comments</b>
+                  Comments:
                   ${comments}
                 </p>
                 <p class="info-item">
-                  <b>Downloads</b>
+                  Downloads:
                   ${downloads}
                 </p>
               </div>
             </figcaption>
-            
-          </div>
+            </div>
           </a>
           </figure>
         `
