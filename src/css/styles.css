@@ -4,7 +4,7 @@
 }
 
 body {
-background-color: rgb(174, 174, 238)
+background-color: rgb(174, 174, 238);
 }
 
 .hidden {
@@ -116,7 +116,6 @@ button {
 .photo-card {
     display: flex;
     flex-wrap: wrap;
-    max-width: 1440px;
     flex-basis: calc((100% - 40px) / 5);
     gap: 10px;
     background-color: #fee6e3;
@@ -127,7 +126,6 @@ button {
 .thumb {
     display: flex;
     flex-direction: column;
-    gap: 10px;
     height: 100%;
 
 }
